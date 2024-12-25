@@ -34,7 +34,7 @@ The platform caters to **four** main user groups:
    - Oversees high-level administration, user management, scheduling, and appeals from students.  
    - Monitors platform-wide performance metrics and usage.
 
-4. **Parents (New Portal)**  
+4. **Parents (Limited Portal)**  
    - **View Student Grades & Performance**: Access the student’s quizzes, assignments, and performance metrics.  
    - **Schedule Meetings with Instructors**: Book consultation sessions to discuss student progress.  
    - **Consent-Based Access**: Students must grant permission before parents can join and view their academic data, ensuring privacy compliance.
